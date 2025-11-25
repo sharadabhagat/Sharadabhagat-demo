@@ -1,3 +1,4 @@
 # Sharadabhagat-demo
-This is my first repository
-Author-Sharada Bhagat
+This is my first repository.
+<br>
+Author-Sharada Bhagat.
